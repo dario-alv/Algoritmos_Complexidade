@@ -1,10 +1,10 @@
 # Algoritmos e Complexidade
 
-###Cemitério para todos os programas relativos a Algoritmos e Complexidade P (RIP)
+### Cemitério para todos os programas relativos a Algoritmos e Complexidade P (RIP)
 
-####Ano letivo: 2017/2018
+#### Ano letivo: 2017/2018
 
-Notas Inúteis: 
+Notas inúteis: 
 
 1. Faltam Makefiles para os programas referentes às aulas sobre calculo de complexidades algorítmicas (não me dei ao trabalho de fazer e não tenho intensão de...)
 2. Referente a essas mesmas aulas, todos os programas possuem (até mais ver) a melhor/mais eficiente versão possível dos algorítmos pedidos
